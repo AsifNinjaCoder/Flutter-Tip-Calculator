@@ -1,8 +1,15 @@
 # tip_calculator
 
-A new Flutter project.
+I am Start Studing On Flutter and Start my journey on flutter please follow me on my Journey of Flutter
 
 ## Getting Started
+
+These are the list of things you need to install these softwares.
+
+* Fultter
+* Vs code
+* Android studio
+* Emulator
 
 This project is a starting point for a Flutter application.
 
