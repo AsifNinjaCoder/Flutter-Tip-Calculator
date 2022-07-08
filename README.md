@@ -1,4 +1,4 @@
-# tip_calculator
+# Tip_calculator
 
 I am Start Studing On Flutter and Start my journey on flutter please follow me on my Journey of Flutter
 
